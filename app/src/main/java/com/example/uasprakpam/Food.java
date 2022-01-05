@@ -1,4 +1,4 @@
-package com.example.utspemrogramanandroid;
+package com.example.uasprakpam;
 
 public class Food {
     private String name;

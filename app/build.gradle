@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.example.utspemrogramanandroid"
+        applicationId "com.example.uasprakpam"
         minSdk 21
         targetSdk 30
         versionCode 1
